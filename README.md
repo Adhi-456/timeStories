@@ -1,4 +1,4 @@
-TIME.com Latest Stories API
+# TIME.com Latest Stories API
 
 This is a small Node.js project that fetches the latest 6 stories from TIME.com
  and shows them as JSON.
